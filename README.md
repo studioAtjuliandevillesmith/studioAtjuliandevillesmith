@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @studioAtjuliandevillesmith
+- 👋 Hi, I’m Julian Deville Smith
 
 
-- 👀 I’m interested in ...html5 css javascript and json
+- 👀 I’m interested in ...html5 css javascript and json and more... 
 
 
 - 🌱 I’m currently learning ... A hell of a lot. I hope.
